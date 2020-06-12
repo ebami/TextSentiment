@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEfeJ2DIEyhlDmQdPbRuIY9k23X84XxMvkgvx69epCN3axNMXYe9+KAy58BvXJ738zuc6fn/72qpQ6Bmwcs3Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ebami\\source\\repos\\FunctionApp1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ebami\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
